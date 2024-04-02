@@ -1,2 +1,1 @@
-# react-deploy-to-remote-server-script
-basic bash script to build and deploy react app files to a remote server
+# A basic script that partially automates react app deployment to remote server
